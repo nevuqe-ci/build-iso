@@ -2,7 +2,7 @@
 
 A Nevuqe-CI script for building NQC ISOs.
 
-This script links to cirrus-ci, and can be invoked with [build-iso] in commit messages, alongside /build-iso in pull-requests / issues.
+This script links to cirrus-ci, and can be invoked with `[build-iso]` in commit messages, alongside `/build-iso` in pull-requests and issues.
 
 This only works for those with push-access, and only on specified repositories.
 
